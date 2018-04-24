@@ -13,7 +13,7 @@ message(STATUS "CURRENT_HEADERS in ${CMAKE_SOURCE_DIR}")
 
 set(CHAPTERS
     1.Start
-    2.Start1
+    2.Vec
 )
 
 foreach(CHAPTER ${CHAPTERS})
