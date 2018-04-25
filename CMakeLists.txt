@@ -15,6 +15,7 @@ set(CHAPTERS
     1.Start
     2.Vec
     3.Ray
+    4.Sphere
 )
 
 foreach(CHAPTER ${CHAPTERS})
