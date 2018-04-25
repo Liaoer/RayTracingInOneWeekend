@@ -1,4 +1,6 @@
-#pragma once
+#ifndef VEC3H
+#define VEC3H
+
 #include <iostream>
 #include <math.h>
 #include <stdlib.h>
@@ -36,7 +38,9 @@ class Vec3{
         }
 
         inline void make_unit_vector();
+
 };
+
 
 
 //输入流 输入格式
@@ -158,3 +162,5 @@ inline Vec3& Vec3::operator/=(const float t) {
 inline Vec3 unit_vector(Vec3 v) {
     return v / v.length();
 }
+
+#endif
