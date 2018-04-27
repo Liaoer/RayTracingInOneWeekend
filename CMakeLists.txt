@@ -17,6 +17,7 @@ set(CHAPTERS
     3.Ray
     4.Sphere
     5.Normals
+    6.MultipleObjects
 )
 
 foreach(CHAPTER ${CHAPTERS})
