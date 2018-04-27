@@ -4,6 +4,16 @@
 
 使用了miloyip的极简PNG编码函数svpng[svpng](https://github.com/miloyip/svpng "svpng")
 
+# Usage
+
+~~~
+cd project
+mkdir build
+cmake ..
+make
+~~~
+
+
 ![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/3.Vec.png)
 
 ![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/4.Sphere.png)
