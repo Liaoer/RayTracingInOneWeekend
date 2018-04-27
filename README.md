@@ -2,7 +2,7 @@
 
 ### 光线追踪实践
 
-使用了miloyip的极简PNG编码函数svpng![svpng](https://github.com/miloyip/svpng)
+使用了miloyip的极简PNG编码函数svpng[svpng](http://blog.csdn.net/guodongxiaren "svpng")
 
 ![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/3.Vec.png)
 
