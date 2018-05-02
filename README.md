@@ -25,4 +25,6 @@ make
 
 ![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/7.Antialasing.png)
 
+![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/8.Diffuse.png)
+
 

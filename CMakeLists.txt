@@ -19,6 +19,7 @@ set(CHAPTERS
     5.Normals
     6.MultipleObjects
     7.Antialiasing
+    8.Diffuse
 )
 
 foreach(CHAPTER ${CHAPTERS})
