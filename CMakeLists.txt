@@ -21,6 +21,7 @@ set(CHAPTERS
     7.Antialiasing
     8.Diffuse
     9.Material
+    10.Dielectric
 )
 
 foreach(CHAPTER ${CHAPTERS})

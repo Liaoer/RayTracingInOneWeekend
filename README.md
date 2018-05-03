@@ -29,4 +29,6 @@ make
 
 ![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/9.Metal.png)
 
+![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/10.Dielectric.png)
+
 
