@@ -20,6 +20,7 @@ set(CHAPTERS
     6.MultipleObjects
     7.Antialiasing
     8.Diffuse
+    9.Material
 )
 
 foreach(CHAPTER ${CHAPTERS})
