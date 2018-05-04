@@ -31,4 +31,6 @@ make
 
 ![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/10.Dielectric.png)
 
+![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/11.Camera.png)
+
 
