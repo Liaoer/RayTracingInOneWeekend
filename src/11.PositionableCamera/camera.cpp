@@ -11,7 +11,6 @@ Camera::Camera(Vec3 lookfrom, Vec3 lookat, Vec3 vup, float vfov, float aspect)
     u = unit_vector(cross(vup, w));
     v = cross(w, u);
 
-    lower_left_corner = Vec3(-half_widgh, -half_height, -1.0);
     lower_left_corner = origin - half_widgh * u - half_height * v - w;
     horizontal = 2 * half_widgh * u ;
     vertical = 2 * half_height * v ;
