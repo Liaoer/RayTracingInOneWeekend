@@ -33,4 +33,6 @@ make
 
 ![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/11.Camera.png)
 
+![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/12.DefocusBlur.png)
+
 
