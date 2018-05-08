@@ -23,6 +23,7 @@ set(CHAPTERS
     9.Material
     10.Dielectric
     11.PositionableCamera
+    12.DefocusBlur
 )
 
 foreach(CHAPTER ${CHAPTERS})

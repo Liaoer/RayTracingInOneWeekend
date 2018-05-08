@@ -71,7 +71,12 @@ int main(){
     list[3] = new sphere(Vec3(-1,0,-1), 0.5, new dielectric(1.5));
     list[4] = new sphere(Vec3(-1,0,-1),-0.45, new dielectric(1.5));
     hitable *world = new hitable_list(list, 5);
-    Camera cam(Vec3(-2, 2, 1), Vec3(0.5, 0, -1), Vec3(0, 1, 0), 30, float(W) / float(H));
+
+    Vec3 lookfrom(3, 3, 2);
+    Vec3 lookat(0, 0, -1); 
+    float dist_to_focus = (lookfrom - lookat).length();  
+    float aperture = 2.0; 
+    Camera cam(lookfrom, lookat, Vec3(0, 1, 0), 20, float(W) / float(H),aperture,dist_to_focus);
 
     for (int j = H-1; j >=0 ; j--){
         showProgress(j,H);
