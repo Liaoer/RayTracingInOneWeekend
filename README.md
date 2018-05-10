@@ -35,4 +35,6 @@ make
 
 ![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/12.DefocusBlur.png)
 
+![image](https://github.com/Liaoer/RayTracingInOneWeekend/blob/master/img/13.WhatNext.png)
+
 

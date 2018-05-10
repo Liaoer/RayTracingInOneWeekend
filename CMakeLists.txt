@@ -24,6 +24,7 @@ set(CHAPTERS
     10.Dielectric
     11.PositionableCamera
     12.DefocusBlur
+    13.WhatNext
 )
 
 foreach(CHAPTER ${CHAPTERS})
